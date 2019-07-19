@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 46e309820ce2b0746aa813c56c6b3ae5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3116704551590526019
+    second: grasslet sprite sheet_0
+  - first:
+      213: -4607598109220717543
+    second: grasslet sprite sheet_1
+  - first:
+      213: 5176505398612913887
+    second: grasslet sprite sheet_2
+  - first:
+      213: 1332280458101276696
+    second: grasslet sprite sheet_3
+  - first:
+      213: 323809310157695402
+    second: grasslet sprite sheet_4
+  - first:
+      213: -8076119057354746826
+    second: grasslet sprite sheet_5
+  - first:
+      213: -6924369681883414865
+    second: grasslet sprite sheet_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grasslet sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 678
+        width: 136
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48858133, y: 0.16847624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bda01948294414a8ad8866c078a16b
+      internalID: 3116704551590526019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasslet sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 677
+        width: 140
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16029675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199dc48f790345f44a4af5889363e302
+      internalID: -4607598109220717543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasslet sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 677
+        width: 140
+        height: 109
+      alignment: 9
+      pivot: {x: 0.43344596, y: 0.15807098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44335c61971405408fc35c30eb18f2f
+      internalID: 5176505398612913887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasslet sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 678
+        width: 134
+        height: 87
+      alignment: 9
+      pivot: {x: 0.47682166, y: 0.17870462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a2c6216e4a2eb43a90c6d57183a8dd
+      internalID: 1332280458101276696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasslet sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 560
+        width: 138
+        height: 99
+      alignment: 9
+      pivot: {x: 0.46624053, y: 0.1705908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1277dc60b47304fb462e8419832d7f
+      internalID: 323809310157695402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasslet sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 562
+        width: 139
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4888277, y: 0.13553728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a17d3aad280644848991e44cbb715
+      internalID: -8076119057354746826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e04e3b3b148f555478da132a6a73d317
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

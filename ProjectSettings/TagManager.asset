@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pickup
+  - Anti
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1507882193
+    locked: 0
+  - name: Ground
+    uniqueID: 2979022475
+    locked: 0
+  - name: Floaters
+    uniqueID: 1914322799
+    locked: 0
+  - name: Bunip
+    uniqueID: 1543105129
+    locked: 0
+  - name: Grasslet
+    uniqueID: 2493616455
+    locked: 0
+  - name: Coin
+    uniqueID: 2552479809
+    locked: 0

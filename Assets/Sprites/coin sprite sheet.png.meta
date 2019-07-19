@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 9d37d8d43edb1664aab1a68461e703c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6467235992640466807
+    second: coin sprite sheet_0
+  - first:
+      213: -8655037340924903207
+    second: coin sprite sheet_1
+  - first:
+      213: -4581082370766584476
+    second: coin sprite sheet_2
+  - first:
+      213: 7011214846296065975
+    second: coin sprite sheet_3
+  - first:
+      213: -8171808039379150210
+    second: coin sprite sheet_4
+  - first:
+      213: -4831547601766428819
+    second: coin sprite sheet_5
+  - first:
+      213: -363575181946444752
+    second: coin sprite sheet_6
+  - first:
+      213: 2416606325015769588
+    second: coin sprite sheet_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coin sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 684
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b94c5d74dc2b458c0a00f4c34e9eb
+      internalID: 6467235992640466807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 684
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbac7db4280d994dafb23a82bf27864
+      internalID: -8655037340924903207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 683
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797548940c76daa40be2c08a9970c251
+      internalID: -4581082370766584476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 686
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d45f0ac9f1178a4bb59248e0127069b
+      internalID: 7011214846296065975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 685
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e784f8b43de924d89c00a239e5d17a
+      internalID: -8171808039379150210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 685
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f88dae96ebad4cbf4ce837c38298e
+      internalID: -4831547601766428819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 679
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30acd8bf973624caff31f826179c0f
+      internalID: -363575181946444752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 680
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185462a57dc73a44795357f8c4e9a55a
+      internalID: 2416606325015769588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -499, y: 268}
+      - {x: -499, y: 390}
+      - {x: -390, y: 390}
+      - {x: -390, y: 268}
+    - - {x: -377, y: 261}
+      - {x: -377, y: 390}
+      - {x: -268, y: 390}
+      - {x: -268, y: 261}
+    - - {x: -265, y: 268}
+      - {x: -265, y: 394}
+      - {x: -159, y: 394}
+      - {x: -159, y: 268}
+    - - {x: -149, y: 265}
+      - {x: -149, y: 384}
+      - {x: -53, y: 384}
+      - {x: -53, y: 265}
+    - - {x: -43, y: 278}
+      - {x: -43, y: 394}
+      - {x: 33, y: 394}
+      - {x: 33, y: 278}
+    - - {x: 50, y: 281}
+      - {x: 50, y: 387}
+      - {x: 132, y: 387}
+      - {x: 132, y: 281}
+    - - {x: 149, y: 268}
+      - {x: 149, y: 397}
+      - {x: 245, y: 397}
+      - {x: 245, y: 268}
+    - - {x: 255, y: 265}
+      - {x: 255, y: 397}
+      - {x: 367, y: 397}
+      - {x: 367, y: 265}
+    physicsShape: []
+    bones: []
+    spriteID: 414d83c826c0a114eb8f5824a7050a0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
